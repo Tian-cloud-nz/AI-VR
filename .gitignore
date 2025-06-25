@@ -1,0 +1,56 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Libraries]/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+AssetStoreTools*
+
+# =============== #
+# OS Generated    #
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# IDE/Editor      #
+# =============== #
+.vs/
+.vscode/
+*.csproj.user
+*.suo
+*.user
+*.userprefs
+
+# =============== #
+# Other           #
+# =============== #
+*.bak
+*.tmp
+*.swp
+*.lock
+*.log
+
+# =============== #
+# Rider           #
+# =============== #
+.idea/
+*.sln.iml
+
+# =============== #
+# Crash Reports   #
+# =============== #
+sysinfo.txt
+
+# =============== #
+# Build Artifacts #
+# =============== #
+*.apk
+*.aab
+*.unitypackage
